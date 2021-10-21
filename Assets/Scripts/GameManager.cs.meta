@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 39815af1490ae4d4d8ccc7ea31a34415
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sceneFader: {instanceID: 0}
+  - exitAnim: {instanceID: 0}
+  - textOrbsInfo: {instanceID: 0}
+  - particleSystemExit: {fileID: 1413487784461498, guid: dff5b9830c4ec8148a0c465f43984e41,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
